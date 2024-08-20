@@ -11,21 +11,21 @@ function App() {
       <div>
         <a href="https://vitejs.dev" target="_blank">
           <img
-            src={"../public/img/iphone14-digitalmat-gallery-3-202209.jpg"}
+            src={"/img/iphone14-digitalmat-gallery-3-202209.jpg"}
             className="logo"
             alt="Vite logo"
           />
         </a>
         <a href="https://react.dev" target="_blank">
           <img
-            src={"../public/img/iphone15(2).jpg"}
+            src={"/img/iphone15(2).jpg"}
             className="logo react"
             alt="React logo"
           />
         </a>
         <a href="https://react.dev" target="_blank">
           <img
-            src={"../public/img/iphone15black1.jpg"}
+            src={"/img/iphone15black1.jpg"}
             className="logo react"
             alt="React logo"
           />
